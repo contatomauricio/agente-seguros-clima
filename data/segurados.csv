@@ -1,0 +1,43 @@
+id,nome,cidade,uf,zona_costeira,tipo_apolice,email_simulado,telefone_simulado
+1,Mariana Souza,São Paulo,SP,false,residencial,mariana.souza@example.com,+55 11 90000-0001
+2,Carlos Nogueira,São Paulo,SP,false,automovel,carlos.nogueira@example.com,+55 11 90000-0002
+3,Beatriz Lima,Fortaleza,CE,true,residencial,beatriz.lima@example.com,+55 85 90000-0003
+4,João Pereira,Fortaleza,CE,true,automovel,joao.pereira@example.com,+55 85 90000-0004
+5,Ana Cardoso,Recife,PE,true,ambos,ana.cardoso@example.com,+55 81 90000-0005
+6,Rafael Torres,Santos,SP,true,residencial,rafael.torres@example.com,+55 13 90000-0006
+7,Fernanda Ribeiro,Rio de Janeiro,RJ,true,ambos,fernanda.ribeiro@example.com,+55 21 90000-0007
+8,Lucas Martins,Porto Alegre,RS,false,automovel,lucas.martins@example.com,+55 51 90000-0008
+9,Patrícia Gomes,Salvador,BA,true,residencial,patricia.gomes@example.com,+55 71 90000-0009
+10,Bruno Alves,Curitiba,PR,false,ambos,bruno.alves@example.com,+55 41 90000-0010
+11,Camila Rocha,Belo Horizonte,MG,false,residencial,camila.rocha@example.com,+55 31 90000-0011
+12,Diego Fontes,Natal,RN,true,automovel,diego.fontes@example.com,+55 84 90000-0012
+13,Larissa Duarte,Florianópolis,SC,true,ambos,larissa.duarte@example.com,+55 48 90000-0013
+14,Eduardo Barros,Vitória,ES,true,residencial,eduardo.barros@example.com,+55 27 90000-0014
+15,Juliana Prado,Maceió,AL,true,automovel,juliana.prado@example.com,+55 82 90000-0015
+16,Rodrigo Farias,Manaus,AM,false,residencial,rodrigo.farias@example.com,+55 92 90000-0016
+17,Vanessa Teixeira,Belém,PA,true,ambos,vanessa.teixeira@example.com,+55 91 90000-0017
+18,Thiago Moreira,Brasília,DF,false,automovel,thiago.moreira@example.com,+55 61 90000-0018
+19,Priscila Andrade,Goiânia,GO,false,residencial,priscila.andrade@example.com,+55 62 90000-0019
+20,Gustavo Correia,Cuiabá,MT,false,ambos,gustavo.correia@example.com,+55 65 90000-0020
+21,Renata Vasconcelos,Campo Grande,MS,false,residencial,renata.vasconcelos@example.com,+55 67 90000-0021
+22,Marcelo Cavalcanti,Teresina,PI,false,automovel,marcelo.cavalcanti@example.com,+55 86 90000-0022
+23,Aline Monteiro,São Luís,MA,true,residencial,aline.monteiro@example.com,+55 98 90000-0023
+24,Felipe Azevedo,João Pessoa,PB,true,ambos,felipe.azevedo@example.com,+55 83 90000-0024
+25,Débora Pinheiro,Aracaju,SE,true,residencial,debora.pinheiro@example.com,+55 79 90000-0025
+26,Leonardo Batista,Palmas,TO,false,automovel,leonardo.batista@example.com,+55 63 90000-0026
+27,Simone Freitas,Macapá,AP,true,residencial,simone.freitas@example.com,+55 96 90000-0027
+28,André Nunes,Boa Vista,RR,false,automovel,andre.nunes@example.com,+55 95 90000-0028
+29,Cristiane Melo,Rio Branco,AC,false,residencial,cristiane.melo@example.com,+55 68 90000-0029
+30,Vinícius Cardoso,Porto Velho,RO,false,ambos,vinicius.cardoso@example.com,+55 69 90000-0030
+31,Tatiane Souza,Foz do Iguaçu,PR,false,residencial,tatiane.souza@example.com,+55 45 90000-0031
+32,Henrique Lopes,Chapecó,SC,false,automovel,henrique.lopes@example.com,+55 49 90000-0032
+33,Bianca Ramos,Uberlândia,MG,false,residencial,bianca.ramos@example.com,+55 34 90000-0033
+34,Rafael Guimarães,Campinas,SP,false,ambos,rafael.guimaraes@example.com,+55 19 90000-0034
+35,Isabela Castro,Niterói,RJ,true,residencial,isabela.castro@example.com,+55 21 90000-0035
+36,Otávio Dias,Ilhéus,BA,true,automovel,otavio.dias@example.com,+55 73 90000-0036
+37,Carolina Xavier,Petrolina,PE,false,residencial,carolina.xavier@example.com,+55 87 90000-0037
+38,Igor Pacheco,Mossoró,RN,false,ambos,igor.pacheco@example.com,+55 84 90000-0038
+39,Natália Borges,Caruaru,PE,false,residencial,natalia.borges@example.com,+55 81 90000-0039
+40,Márcio Teles,Joinville,SC,true,automovel,marcio.teles@example.com,+55 47 90000-0040
+41,Paulo Cezar,Santos,SP,true,automovel,paulo.cezar@example.com,+55 13 90000-0041
+42,Sandra Regina,Teresina,PI,false,residencial,sandra.regina@example.com,+55 86 90000-0042

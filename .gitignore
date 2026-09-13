@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+output/notificacoes_simuladas.json
+spec_agente_ia_seguros.md
