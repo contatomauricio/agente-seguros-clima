@@ -1,7 +1,7 @@
 # Agente de Comunicação Proativa com Segurados
 
 Protótipo (MVP) de um agente de IA que monitora eventos meteorológicos e gera
-comunicações preventivas personalizadas para segurados, simulando o envio —
+comunicações preventivas personalizadas para segurados, simulando o envio 
 desenvolvido para o desafio "Ferramenta Inteligente para Comunicação Proativa
 com o Segurado" (I2A2).
 
