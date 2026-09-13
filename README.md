@@ -61,12 +61,6 @@ agente-seguros-clima/
 └── output/notificacoes_simuladas.json  # gerado a cada execução
 ```
 
-## Limitações 
-
-Sem integração com sistemas reais de seguradoras, sem envio efetivo de
-SMS/e-mail/push, cobertura de um subconjunto de eventos climáticos, e sem
-preocupação com robustez de produção — conforme o escopo do desafio.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT — veja o arquivo [LICENSE](LICENSE)
